@@ -9,3 +9,5 @@ A criação desse repositório se dá por dois motivos:
 2) Possibilitar que todo o processo seja visto por pesssoas mais ou menos experientes, com visões diferentes, e que estas possam contribuir na melhoria do trabalho.
 
 O arquivo com os dados utilizados é grande demais, e por esse motivo não está disponível nesse repositório. Para fazer o download dele [utilize este link](https://drive.google.com/drive/folders/16vqTLCfIW4lPVSndFd1wqQ2Thn85jUTn?usp=sharing).
+
+O resultado final do trabalho pode ser visualizado [nesse vídeo](https://youtu.be/KQHImI5VyNU).
